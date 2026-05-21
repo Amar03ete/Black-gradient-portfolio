@@ -78,8 +78,8 @@ export function Hero() {
               <ArrowRight size={16} />
             </a>
             <a
-              href="/resume.txt"
-              download="Amar_Pandey_Resume.txt"
+              href="/AMAR_CV.pdf"
+              download="AMAR_CV.pdf"
               className="inline-flex items-center justify-center space-x-2 bg-transparent border border-[#333] text-white px-6 py-4 font-mono uppercase tracking-widest text-xs hover:bg-[#111] transition-colors w-full sm:w-auto"
             >
               <Download size={16} />
